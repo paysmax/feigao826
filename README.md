@@ -5,7 +5,7 @@ Here is a list of assorted things about me:
 1. Have used R before
 1. interested in statistics
 
-My name is Fei Gao, I am currently studying Msc Statistical Finance at Imperial College London. I have been to France, Netherlands, Belgum, Luxembourg, USA, Germany, Spain, Italy, Thailand, Singapore, China and Japan.
+My name is Fei Gao, I am currently studying [Msc Statistical Finance](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics-statistical-finance/) at Imperial College London. I have been to France, Netherlands, Belgum, Luxembourg, USA, Germany, Spain, Italy, Thailand, Singapore, China and Japan.
 
 The [BBC](bbc.co.uk) is the British national broadcaster. 
 -----
